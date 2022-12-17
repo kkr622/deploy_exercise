@@ -1,4 +1,4 @@
-# BeEngineer 第 4 章 Git とデプロイの演習問題用
+# BeEngineer 第 4 章 Git とデプロイの演習問題 "kai"
 
 演習問題を解く際は、
 
